@@ -12,4 +12,9 @@
 
 ![capture](https://user-images.githubusercontent.com/41308248/48298273-8f363f80-e46f-11e8-84e1-30d4d2480cd1.PNG)
 
+### Code Snippets
+
+![1](https://user-images.githubusercontent.com/41308248/48298296-1be0fd80-e470-11e8-9c23-080cefda9585.PNG)
+
+![2](https://user-images.githubusercontent.com/41308248/48298297-1be0fd80-e470-11e8-8d02-03f1aafd0655.PNG)
 
