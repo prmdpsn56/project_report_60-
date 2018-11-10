@@ -8,4 +8,8 @@
 2.Database integration with php as backend.
 3.Data visualisation using php and fusion charts.
 
+### Demo Dashboard built using react cdn and fusion chart libraries (locally)
+
+![capture](https://user-images.githubusercontent.com/41308248/48298273-8f363f80-e46f-11e8-84e1-30d4d2480cd1.PNG)
+
 
